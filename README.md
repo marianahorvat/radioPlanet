@@ -1,11 +1,11 @@
-# Jungle
+# Radio Planet
 
-A single page application (SPA) built with React, that allows listeners to tune into live radio stations across the entire globe.
+A group project SPA built with React, that allows listeners to tune into live radio stations across the entire globe.
 
 ## Setup
 
 1. Fork & Clone
-2. Run `bundle install` to install dependencies
+2. Run `npm install` to install dependencies
 3. Run `npm start` to start the server
 4. Open http://localhost:3000
 
@@ -24,20 +24,38 @@ A single page application (SPA) built with React, that allows listeners to tune 
 
 ## Screenshots
 
+Overlay
+!['Screenshot of Cart Page'](https://github.com/marianahorvat/radioPlanet/blob/master/docs/overlay.png)
+
 Home Page
-!['Screenshot of Home Page'](https://github.com/marianahorvat/jungle-rails/blob/master/docs/homePage.png)
+!['Screenshot of Home Page'](https://github.com/marianahorvat/radioPlanet/blob/master/docs/homePage.png)
 
-Login Page
-!['Screenshot of Login Page'](https://github.com/marianahorvat/jungle-rails/blob/master/docs/loginPage.png)
+Search Radio Stations
+!['Screenshot of Login Page'](https://github.com/marianahorvat/radioPlanet/blob/master/docs/searchRadioStations.png)
 
-Signup Page
-!['Screenshot of Signup Page'](https://github.com/marianahorvat/jungle-rails/blob/master/docs/signupPage.png)
+Sound On/Off
+!['Screenshot of Signup Page'](https://github.com/marianahorvat/radioPlanet/blob/master/docs/soundOnOff.png)
 
-Product Detail Page
-!['Screenshot of Product Detail Page'](https://github.com/marianahorvat/jungle-rails/blob/master/docs/productDetail.png)
+Add Favorites
+!['Screenshot of Product Detail Page'](https://github.com/marianahorvat/radioPlanet/blob/master/docs/addFavorites.png)
 
-Cart Page
-!['Screenshot of Cart Page'](https://github.com/marianahorvat/jungle-rails/blob/master/docs/cartPage.png)
+Remove Favorites
+!['Screenshot of Cart Page'](https://github.com/marianahorvat/radioPlanet/blob/master/docs/removeFavorites.png)
 
-Order Page
-!['Screenshot of Order Page'](https://github.com/marianahorvat/jungle-rails/blob/master/docs/orderPage.png)
+Show Favorites 
+!['Screenshot of Order Page'](https://github.com/marianahorvat/radioPlanet/blob/master/docs/showFavorites.png)
+
+Zoom In
+!['Screenshot of Home Page'](https://github.com/marianahorvat/radioPlanet/blob/master/docs/zoomIn.png)
+
+Zoom Out
+!['Screenshot of Login Page'](https://github.com/marianahorvat/radioPlanet/blob/master/docs/zoomOut.png)
+
+Search Location
+!['Screenshot of Signup Page'](https://github.com/marianahorvat/radioPlanet/blob/master/docs/searchLocation.png)
+
+Navigate to Location
+!['Screenshot of Product Detail Page'](https://github.com/marianahorvat/radioPlanet/blob/master/docs/navigateToLocation.png)
+
+2D View
+!['Screenshot of Order Page'](https://github.com/marianahorvat/radioPlanet/blob/master/docs/2DView.png)
